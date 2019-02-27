@@ -4,4 +4,4 @@
 
 a="plop"
 
-print("a")
+print(a)
